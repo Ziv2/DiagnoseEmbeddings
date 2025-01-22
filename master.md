@@ -1,12 +1,12 @@
 # Literature Review
 
-## Weak spots at different embeddings level<img title="" src="file:///home/z/Documents/DK_2025/Literature_Review/diagram.svg" alt="Literature Review Overview" width="800">
+## Weak spots at different embeddings level<img title="" src="https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg" alt="Literature Review Overview" width="800">
 
 ## 
 
 ## Content illusration
-
-`![Alt text](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
+`![Alt text](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram_2.png
+)
 
 ## Contents
 
