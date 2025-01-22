@@ -3,7 +3,9 @@ In existing literature, root cause analysis (or failure analysis) is predominant
 The accompanying README file serves as a navigation panel to the various topics covered in this literature review.
 
 To begin, we present a schematic diagram illustrating the potential causes of application failures across the different stages where textual embeddings play a role.
+
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
+
 
 ## Mapping the methods covered in this literature review.
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/Methods_map.png)
