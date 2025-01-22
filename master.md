@@ -6,7 +6,7 @@
 
 ## Content illusration
 
-`![Alt text](/home/z/Documents/DK_2025/Literature_Review/diagram_2.png)
+`![Alt text](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
 
 ## Contents
 
