@@ -1,8 +1,10 @@
-# Literature Review
+# Literature Review: root cause analysis for Textual Embeddings 
+At the literature, the concept of root cause analysis (or failure analysis) is mostly linked to production processes and less to the study of failures in language models.
+Consequently, the review deals with the study of vulnerabilities and weak points in textual embedding utilization.
+The review attempts to map the methods for finding failures in textual embedding.
+The following readme file is a navigation panel for the various topics covered in this literature review.
 
-##
-
-## Weak points along the use of textual Embedings
+Let's start with a schematic diagram of the possible causes of application failures arising along the various stages in which textual embedding is involved.
 
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
 
