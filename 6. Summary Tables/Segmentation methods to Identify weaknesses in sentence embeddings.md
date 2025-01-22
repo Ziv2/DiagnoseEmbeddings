@@ -1,0 +1,19 @@
+# Identifying weaknesses in sentence embeddings using segmentation methods
+
+---
+
+
+
+### Updated Summary Table
+
+| **Method**                   | **Effective** | **How to Use**                                                                                           | **Resources Needed**                | **Efficiency** | **References**                                                               | **GitHub Resources**                                      |
+| ---------------------------- | ------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **LDA**                      | Partially     | Use LDA to identify thematic coherence in sentence embeddings, detecting unclear topic boundaries.       | Gensim, labeled data                | Moderate       | [Blei et al., 2003](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) | [Gensim LDA](https://radimrehurek.com/gensim)             |
+| **NMF**                      | Yes           | Decompose embeddings into non-negative factors to reveal latent topic structures and detect anomalies.   | Scikit-learn                        | High           | [Lee & Seung, 1999](https://www.nature.com/articles/44565)                   | [Scikit NMF](https://scikit-learn.org/)                   |
+| **BERTopic**                 | Yes           | Cluster embeddings into coherent topics using pre-trained transformers to identify weak topic capture.   | BERTopic, pre-trained embeddings    | Very High      | [BERTopic documentation](https://maartengr.github.io/BERTopic/)              | [BERTopic GitHub](https://github.com/MaartenGr/BERTopic)  |
+| **TextRank**                 | Moderately    | Build a similarity graph for sentences and rank them to identify disconnected or weakly connected nodes. | NetworkX                            | Moderate       | [Mihalcea & Tarau, 2004](https://www.aclweb.org/anthology/W04-3252/)         | [TextRank GitHub](https://github.com/DerwenAI/pytextrank) |
+| **LexRank**                  | Yes           | Use cosine similarity for edge weights to find central and weakly connected sentences in embeddings.     | Scikit-learn                        | Moderate       | [Erkan & Radev, 2004](https://aclanthology.org/W04-3247/)                    | [LexRank GitHub](https://github.com/crabcamp/lexrank)     |
+| **Rolling Window**           | Yes           | Compute similarity trends over a sliding window to detect inconsistencies in embedding representations.  | Hugging Face Transformers           | Moderate       | [Mikolov et al., 2013](https://arxiv.org/abs/1301.3781)                      | [Hugging Face](https://huggingface.co/)                   |
+| **Event Detection**          | Yes           | Cluster embeddings of time-stamped sentences to detect coherent or weak event segmentation.              | Scikit-learn                        | High           | [Blei & McAuliffe, 2010](https://www.jmlr.org/papers/v12/blei10a.html)       | NA                                                        |
+| **Dialogue Segmentation**    | Yes           | Segment sentences into conversational turns using embedding similarities to evaluate clarity.            | Hugging Face Transformers, datasets | High           | [Serban et al., 2016](https://arxiv.org/abs/1606.01933)                      | [Hugging Face](https://huggingface.co/)                   |
+| **Summarization Clustering** | Yes           | Cluster sentences for extractive summarization, highlighting weak coherence in embeddings.               | Transformers                        | High           | [Nallapati et al., 2017](https://arxiv.org/abs/1602.03606)                   | [Hugging Face](https://huggingface.co/)                   |
