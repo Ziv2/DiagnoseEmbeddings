@@ -1,7 +1,5 @@
 # Segmentation methods to identify weaknesses in text embeddings:
 
-
-
 ---
 
 | **Method**                   | **Effective** | **How to Use**                                | **Resources Needed**                | **Efficiency** | **References**                                                                | **GitHub Resources**                                                                                 |
@@ -15,5 +13,3 @@
 | **Event Detection**          | Yes           | Clustering embeddings for event detection     | Pre-trained models, Scikit-learn    | High           | [Aggarwal, 2012](https://link.springer.com/book/10.1007/978-1-4614-2804-2)    | NA                                                                                                   |
 | **Dialogue Segmentation**    | Yes           | Turn-based sentence segmentation              | Labeled datasets, SpaCy             | Moderate       | [Ritter et al., 2010](https://www.aclweb.org/anthology/P10-1044/)             | NA                                                                                                   |
 | **Summarization Clustering** | Yes           | Embedding clustering for extractive summaries | Summarization libraries, embeddings | High           | NA                                                                            | [Sumy Repository](https://github.com/miso-belica/sumy)                                               |
-
-

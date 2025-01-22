@@ -1,12 +1,8 @@
 # Literature Review
 
-## Weak spots at different embeddings level<img title="" src="file:///home/z/Documents/DK_2025/Literature_Review/diagram.svg" alt="Literature Review Overview" width="800">
+## Overview Diagram
 
-## 
-
-## Content illusration
-
-`![Alt text](/home/z/Documents/DK_2025/Literature_Review/diagram_2.png)
+<img src="/home/z/Documents/DK_2025/Literature_Review/diagram.svg" alt="Literature Review Overview" width="800"/>
 
 ## Contents
 
@@ -24,16 +20,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Sentence Embeddings](2. Clustering/Clustering Methods for Sentence Embeddings.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering methods for Word Embeddings](2. Clustering/Clustering methods for Word Embeddings.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1. Word Embeddings**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Advanced Techniques (Applicable Across Levels)](2. Clustering/1. Word Embeddings/Advanced Techniques (Applicable Across Levels).md)
-
 **3. Segmentation**
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Document Embeddings](3. Segmentation/Segmentation Methods for Document Embeddings.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Sentence Embeddings](3. Segmentation/Segmentation Methods for Sentence Embeddings.md)
 
 **4. Search Methodes**
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;**1. Fairness and Bias Assessment**
 
@@ -105,14 +98,260 @@
 
 **6. Summary Tables**
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering for Analyzing Weaknesses in Word Embeddings](6. Summary Tables/Clustering Methods for Analyzing Weaknesses in Word Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering of finding weaknesses in sentence embeddings](6. Summary Tables/Clustering Methods of finding weaknesses in sentence embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering to find weaknesses in Paragraph and Document embeddings](6. Summary Tables/Clustering Methods to find weaknesses in Paragraph and Document embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Analyzing Weaknesses in Word Embeddings](6. Summary Tables/Clustering Methods for Analyzing Weaknesses in Word Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods of finding weaknesses in sentence embeddings](6. Summary Tables/Clustering Methods of finding weaknesses in sentence embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods to find weaknesses in Paragraph and Document embeddings](6. Summary Tables/Clustering Methods to find weaknesses in Paragraph and Document embeddings.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering: Advanced Techniques](6. Summary Tables/Clustering: Advanced Techniques.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Paragraph and Document Embeddings Quality Evaluation](6. Summary Tables/Datasets for Paragraph and Document Embeddings Quality Evaluation.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Sentence Embeddings Quality Evaluation](6. Summary Tables/Datasets for Sentence Embeddings Quality Evaluation.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Word Embeddings Quality Evaluation](6. Summary Tables/Datasets for Word Embeddings Quality Evaluation.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find low performance areas in textual embeddings](6. Summary Tables/Real-Time methods to find low performance areas in textual embeddings.md)
 &nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find weaknesses in textual embeddings](6. Summary Tables/Real-Time methods to find weaknesses in textual embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation at Paragraph & Document embeddings](6. Summary Tables/Segmentation methods to identify weaknesses in Paragraph and Document embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation at sentence embeddings](6. Summary Tables/Segmentation methods to Identify weaknesses in sentence embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to identify weaknesses in Paragraph and Document embeddings](6. Summary Tables/Segmentation methods to identify weaknesses in Paragraph and Document embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to Identify weaknesses in sentence embeddings](6. Summary Tables/Segmentation methods to Identify weaknesses in sentence embeddings.md)
+
+**.git**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**branches**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**hooks**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**info**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**logs**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**refs**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**heads**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**remotes**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**origin**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**objects**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**0d**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**0f**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1b**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1d**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3c**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5c**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5e**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5f**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**06**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6b**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6d**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7d**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7f**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**8b**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**8f**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**9a**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**9b**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**9e**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**10**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**19**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**23**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**26**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**33**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**40**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**41**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**42**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**44**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**47**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**49**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**50**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**59**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**64**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**70**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**71**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**74**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**78**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**79**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**90**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**94**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**96**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**99**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**a1**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**a3**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**a4**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**a6**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**aa**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ab**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b1**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b2**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b4**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**b7**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**be**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**c1**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**c2**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**c7**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**cc**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ce**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**d0**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**d7**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**d9**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**de**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e4**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ee**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**f9**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**fe**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**info**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**pack**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;**refs**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**heads**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**remotes**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**origin**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**tags**
+
