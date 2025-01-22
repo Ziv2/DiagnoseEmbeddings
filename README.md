@@ -4,11 +4,11 @@
 
 ## Weak points along the use of textual Embedings
 
-![Literature Review Overview](file:///home/z/Documents/DK_2025/Literature_Review/diagram.svg?msec=1737575932647)
+![Literature Review Overview]([file:///home/z/Documents/DK_2025/Literature_Review](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master)/diagram.svg)
 
 ## Maping the methods which can be found at this literature review.
 
-![Literature Review Overview](file:///home/z/Documents/DK_2025/Literature_Review/Methods_map.png?msec=1737575932653)
+![Literature Review Overview]([file:///home/z/Documents/DK_2025/Literature_Review](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master)/Methods_map.png?msec=1737575932653)
 
 ## Contents
 
@@ -35,6 +35,7 @@
 **3. Segmentation**
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Document Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/3.%20Segmentation/Segmentation%20Methods%20for%20Document%20Embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Sentence Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/3.%20Segmentation/Segmentation%20Methods%20for%20Sentence%20Embeddings.md)
 
 **4. Search Methodes**
