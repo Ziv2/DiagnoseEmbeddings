@@ -14,22 +14,22 @@
 
 **1. Introduction**
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [1. Introduction](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/1.%20Introduction/1.%20Introduction.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [2. Types of Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/1.%20Introduction/2.%20Types%20of%20Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [3. Evaluation Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/1.%20Introduction/3.%20Evaluation%20Metrics.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [4. Datasets](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/1.%20Introduction/4.%20Datasets.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [1. Introduction](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/1.%20Introduction/1.%20Introduction.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [2. Types of Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/1.%20Introduction/2.%20Types%20of%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [3. Evaluation Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/1.%20Introduction/3.%20Evaluation%20Metrics.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [4. Datasets](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/1.%20Introduction/4.%20Datasets.md)
 
 **2. Clustering**
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Advanced clustering techniques (applicable across levels)](2. Clustering/Advanced clustering techniques (applicable across levels).md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Document Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/2.%20Clustering/Clustering%20Methods%20for%20Document%20Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Sentence Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/2.%20Clustering/Clustering%20Methods%20for%20Sentence%20Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering methods for Word Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/2.%20Clustering/Clustering%20methods%20for%20Word%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Document Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/2.%20Clustering/Clustering%20Methods%20for%20Document%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Sentence Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/2.%20Clustering/Clustering%20Methods%20for%20Sentence%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering methods for Word Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/2.%20Clustering/Clustering%20methods%20for%20Word%20Embeddings.md)
 
 **3. Segmentation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Document Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/3.%20Segmentation/Segmentation%20Methods%20for%20Document%20Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Sentence Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/3.%20Segmentation/Segmentation%20Methods%20for%20Sentence%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Document Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/3.%20Segmentation/Segmentation%20Methods%20for%20Document%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation Methods for Sentence Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/3.%20Segmentation/Segmentation%20Methods%20for%20Sentence%20Embeddings.md)
 
 **4. Search Methodes**
 
