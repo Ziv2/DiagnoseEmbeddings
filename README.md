@@ -1,6 +1,9 @@
 # Literature Review: Root Cause Analysis for Textual Embeddings
-In existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with limited focus on the study of failures in language models. This review addresses the vulnerabilities and weaknesses in the utilization of textual embeddings, aiming to explore methods for identifying and diagnosing these failures. 
+The following review explore methods for identifying and diagnosing failures, vulnerabilities and weaknesses in the utilization of textual embeddings. 
 The accompanying README file serves as a navigation panel to the various topics covered in this literature review.
+
+Please note that we choose to use alternative terminology because in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models weaknesses or failures. 
+
 
 To begin, we present a schematic diagram illustrating the potential causes of application failures across the different stages where textual embeddings play a role.
 
