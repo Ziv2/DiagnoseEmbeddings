@@ -7,10 +7,6 @@
 ## Weak spots at different embeddings level<img title="" src="https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg" alt="Literature Review Overview" width="800">
  
 
-## Content illusration
-[Alt text](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram_2.png)
-
-
 ## Contents
 
 **1. Introduction**
