@@ -3,11 +3,10 @@ One can effectively uncover semantic inconsistencies and weaknesses in textual e
 This technique is valuable for debugging embedding models, improving their robustness, and ensuring better semantic preservation.
 This methode leverage LSH's capability to efficiently approximate nearest neighbor search in high-dimensional spaces. 
 
-Here's how this process typically works:
+Here's how the simplest process works:
 
-### 1. **Understanding the Weakness of Text Embeddings**
-
-Text embeddings, like those from transformers or word2vec, map text into high-dimensional vectors. Weaknesses arise when embeddings fail to maintain semantic relationships, resulting in similar or related text being mapped far apart in the embedding space.
+### 1. **Does the textual Embeddings maintain semantic relationships?**
+Text embeddings, like those from transformers or word2vec, map text into high-dimensional vectors. One optional weaknesses arise when embeddings fail to maintain semantic relationships, resulting in similar or related text being mapped far apart in the embedding space.
 
 ### 2. **Using LSH for Weakness Detection**
 
