@@ -4,11 +4,11 @@
 
 ## Weak points along the use of textual Embedings
 
-![Literature Review Overview]([file:///home/z/Documents/DK_2025/Literature_Review](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master)/diagram.svg)
+![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
 
 ## Maping the methods which can be found at this literature review.
 
-![Literature Review Overview]([file:///home/z/Documents/DK_2025/Literature_Review](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master)/Methods_map.png?msec=1737575932653)
+![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/Methods_map.png)
 
 ## Contents
 
