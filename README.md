@@ -35,84 +35,84 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**1. Fairness and Bias Assessment**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Bias and Fairness Quantification](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/1.%20Fairness%20and%20Bias%20Assessment/Bias%20and%20Fairness%20Quantification.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Bias and Fairness Quantification](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/1.%20Fairness%20and%20Bias%20Assessment/Bias%20and%20Fairness%20Quantification.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2. Linguistic and Contextual Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Contextual issues](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Contextual%20issues.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Cross-language testing](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Cross-language%20testing.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [linguistic analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/linguistic%20analysis.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Out-of-Domain](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Out-of-Domain.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Contextual issues](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Contextual%20issues.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Cross-language testing](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Cross-language%20testing.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [linguistic analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/linguistic%20analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Out-of-Domain](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/2.%20Linguistic%20and%20Contextual%20Analysis/Out-of-Domain.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Out-of-Vocabulary (OOV) words](4. Search Methodes/2. Linguistic and Contextual Analysis/Out-of-Vocabulary (OOV) words.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**3. Statistical and Information-Theoretic Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Divergence Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/3.%20Statistical%20and%20Information-Theoretic%20Analysis/Divergence%20Metrics.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Entropy and Information-Theoretic Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/3.%20Statistical%20and%20Information-Theoretic%20Analysis/Entropy%20and%20Information-Theoretic%20Metrics.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Divergence Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/3.%20Statistical%20and%20Information-Theoretic%20Analysis/Divergence%20Metrics.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Entropy and Information-Theoretic Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/3.%20Statistical%20and%20Information-Theoretic%20Analysis/Entropy%20and%20Information-Theoretic%20Metrics.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**4. Dimensionality and Topological Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dimensionality Reduction Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Dimensionality%20Reduction%20Analysis.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Latent Space Topology Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Latent%20Space%20Topology%20Analysis.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Manifold Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Manifold%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dimensionality Reduction Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Dimensionality%20Reduction%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Latent Space Topology Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Latent%20Space%20Topology%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Manifold Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/4.%20Dimensionality%20and%20Topological%20Analysis/Manifold%20Analysis.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**5. Robustness and Sensitivity Testing**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Advanced Adversarial Testing Methods](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Advanced%20Adversarial%20Testing%20Methods.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Adversarial testing](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Adversarial%20testing.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Few-shot and zero-shot learning](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Few-shot%20and%20zero-shot%20learning.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Probing Task Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Probing%20Task%20Metrics.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sensitivity and Robustness Tests](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Sensitivity%20and%20Robustness%20Tests.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Temporal drift detection](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Temporal%20drift%20detection.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Transfer Learning Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Transfer%20Learning%20Evaluation.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Advanced Adversarial Testing Methods](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Advanced%20Adversarial%20Testing%20Methods.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Adversarial testing](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Adversarial%20testing.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Few-shot and zero-shot learning](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Few-shot%20and%20zero-shot%20learning.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Probing Task Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Probing%20Task%20Metrics.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sensitivity and Robustness Tests](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Sensitivity%20and%20Robustness%20Tests.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Temporal drift detection](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Temporal%20drift%20detection.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Transfer Learning Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/5.%20Robustness%20and%20Sensitivity%20Testing/Transfer%20Learning%20Evaluation.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**6. Error Analysis**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Distribution Analysis (EDA)](4. Search Methodes/6. Error Analysis/Error Distribution Analysis (EDA).md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Surface Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/6.%20Error%20Analysis/Error%20Surface%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Surface Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/6.%20Error%20Analysis/Error%20Surface%20Analysis.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**7. Feature and Vector-Level Metrics**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Feature importance scores](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Feature%20importance%20scores.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Similarity and Distance Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Similarity%20and%20Distance%20Analysis.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Vector density](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Vector%20density.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Feature importance scores](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Feature%20importance%20scores.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Similarity and Distance Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Similarity%20and%20Distance%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Vector density](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/7.%20Feature%20and%20Vector-Level%20Metrics/Vector%20density.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**8. Model and Loss Surface Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Loss Landscape Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/8.%20Model%20and%20Loss%20Surface%20Analysis/Loss%20Landscape%20Analysis.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Normalization and Comparison](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/8.%20Model%20and%20Loss%20Surface%20Analysis/Normalization%20and%20Comparison.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Loss Landscape Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/8.%20Model%20and%20Loss%20Surface%20Analysis/Loss%20Landscape%20Analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Normalization and Comparison](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/8.%20Model%20and%20Loss%20Surface%20Analysis/Normalization%20and%20Comparison.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**9. Outlier and Anomaly Detection**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Locality-Sensitive Hashing (LSH)](4. Search Methodes/9. Outlier and Anomaly Detection/Locality-Sensitive Hashing (LSH).md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Outlier Detection](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/9.%20Outlier%20and%20Anomaly%20Detection/Outlier%20Detection.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Outlier Detection](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/9.%20Outlier%20and%20Anomaly%20Detection/Outlier%20Detection.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**10. Dataset and Cross-Validation Metrics**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Cross-Validation Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/10.%20Dataset%20and%20Cross-Validation%20Metrics/Cross-Validation%20Metrics.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dataset analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/10.%20Dataset%20and%20Cross-Validation%20Metrics/Dataset%20analysis.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Cross-Validation Metrics](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/10.%20Dataset%20and%20Cross-Validation%20Metrics/Cross-Validation%20Metrics.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dataset analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/10.%20Dataset%20and%20Cross-Validation%20Metrics/Dataset%20analysis.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**11. Visualization Techniques**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Visualization techniques](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/4.%20Search%20Methodes/11.%20Visualization%20Techniques/Visualization%20techniques.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Visualization techniques](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/11.%20Visualization%20Techniques/Visualization%20techniques.md)
 
 **5. Real-Time**
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time Investigation to Find Low Performance Areas](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/5.%20Real-Time/Real-Time%20Investigation%20to%20Find%20Low%20Performance%20Areas.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time Investigation to Find Weaknesses](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/5.%20Real-Time/Real-Time%20Investigation%20to%20Find%20Weaknesses.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time Investigation to Find Low Performance Areas](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/5.%20Real-Time/Real-Time%20Investigation%20to%20Find%20Low%20Performance%20Areas.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time Investigation to Find Weaknesses](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/5.%20Real-Time/Real-Time%20Investigation%20to%20Find%20Weaknesses.md)
 
 **6. Summary Tables**
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Analyzing Weaknesses in Word Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Clustering%20Methods%20for%20Analyzing%20Weaknesses%20in%20Word%20Embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods of finding weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Clustering%20Methods%20of%20finding%20weaknesses%20in%20sentence%20embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods to find weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Clustering%20Methods%20to%20find%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering: Advanced Techniques](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Clustering:%20Advanced%20Techniques.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Paragraph and Document Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Datasets%20for%20Paragraph%20and%20Document%20Embeddings%20Quality%20Evaluation.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Sentence Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Datasets%20for%20Sentence%20Embeddings%20Quality%20Evaluation.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Word Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Datasets%20for%20Word%20Embeddings%20Quality%20Evaluation.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find low performance areas in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20low%20performance%20areas%20in%20textual%20embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find weaknesses in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20weaknesses%20in%20textual%20embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to identify weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Segmentation%20methods%20to%20identify%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
-&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to Identify weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/main/6.%20Summary%20Tables/Segmentation%20methods%20to%20Identify%20weaknesses%20in%20sentence%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Analyzing Weaknesses in Word Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20for%20Analyzing%20Weaknesses%20in%20Word%20Embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods of finding weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20of%20finding%20weaknesses%20in%20sentence%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods to find weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20to%20find%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Clustering: Advanced Techniques](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering:%20Advanced%20Techniques.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Paragraph and Document Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Paragraph%20and%20Document%20Embeddings%20Quality%20Evaluation.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Sentence Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Sentence%20Embeddings%20Quality%20Evaluation.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Word Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Word%20Embeddings%20Quality%20Evaluation.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find low performance areas in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20low%20performance%20areas%20in%20textual%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find weaknesses in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20weaknesses%20in%20textual%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to identify weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Segmentation%20methods%20to%20identify%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to Identify weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Segmentation%20methods%20to%20Identify%20weaknesses%20in%20sentence%20embeddings.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
