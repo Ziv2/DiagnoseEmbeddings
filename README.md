@@ -68,7 +68,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**6. Error Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Distribution Analysis (EDA)](4. Search Methodes/6. Error Analysis/Error Distribution Analysis (EDA).md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Distribution Analysis (EDA)](4.%20Search%20Methodes/6.%20Error%20Analysis//Error%20Distribution%20Analysis%20(EDA).md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Error Surface Analysis](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/4.%20Search%20Methodes/6.%20Error%20Analysis/Error%20Surface%20Analysis.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**7. Feature and Vector-Level Metrics**
@@ -104,15 +104,25 @@
 **6. Summary Tables**
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods for Analyzing Weaknesses in Word Embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20for%20Analyzing%20Weaknesses%20in%20Word%20Embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods of finding weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20of%20finding%20weaknesses%20in%20sentence%20embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering Methods to find weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering%20Methods%20to%20find%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Clustering: Advanced Techniques](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Clustering:%20Advanced%20Techniques.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Paragraph and Document Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Paragraph%20and%20Document%20Embeddings%20Quality%20Evaluation.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Sentence Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Sentence%20Embeddings%20Quality%20Evaluation.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Datasets for Word Embeddings Quality Evaluation](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Datasets%20for%20Word%20Embeddings%20Quality%20Evaluation.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find low performance areas in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20low%20performance%20areas%20in%20textual%20embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Real-Time methods to find weaknesses in textual embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Real-Time%20methods%20to%20find%20weaknesses%20in%20textual%20embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to identify weaknesses in Paragraph and Document embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Segmentation%20methods%20to%20identify%20weaknesses%20in%20Paragraph%20and%20Document%20embeddings.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to Identify weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Segmentation%20methods%20to%20Identify%20weaknesses%20in%20sentence%20embeddings.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
