@@ -14,7 +14,7 @@ Intrinsic evaluation metrics (e.g., WordSim-353) identify poor dimensional coher
 Downstream task errors (e.g., sentiment analysis misclassifications) highlight application-specific failures.
 Cluster coherence scoring reveals semantic groupings that are not well-defined.
 
-<u>Emphasis</u> Quantitative analysis and comparisons to known standards or task-specific requirements.
+<u>Emphasis:<u> Quantitative analysis and comparisons to known standards or task-specific requirements.
 
 ## Weaknesses
 Definition: Weaknesses refer to intrinsic properties or vulnerabilities in embeddings, such as their inability to handle rare terms, adversarial inputs, or polysemous words. 
