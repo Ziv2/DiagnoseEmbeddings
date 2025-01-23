@@ -1,11 +1,37 @@
 # Literature Review: Root Cause Analysis for Textual Embeddings
-The following review explore methods for identifying and diagnosing failures, vulnerabilities and weaknesses in the utilization of textual embeddings. 
-The accompanying README file serves as a navigation panel to the various topics covered in this literature review.
+The following review explore methods for identifying and diagnosing failures and weaknesses in the utilization of textual embeddings. 
+**The accompanying README file serves as a navigation panel to the various topics covered in this literature review.**
 
-Please note that we choose to use alternative terminology because in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models weaknesses or failures. 
+Please note that in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models weaknesses or failures.
+Therefore, we tried to use variouse of alternative terms. 
+
+## Low Performance Areas
+Definition: concecuenses in which embeddings fail to meet expected performance metrics. 
+The focus is on specific measurable shortcomings in predefined benchmarks or tasks (e.g., classification, clustering coherence, analogy tests).
+Purpose: Identify areas where embeddings underperform relative to established standards or baselines.
+Examples from Document:
+Intrinsic evaluation metrics (e.g., WordSim-353) identify poor dimensional coherence.
+Downstream task errors (e.g., sentiment analysis misclassifications) highlight application-specific failures.
+Cluster coherence scoring reveals semantic groupings that are not well-defined.
+Emphasis: Quantitative analysis and comparisons to known standards or task-specific requirements.
+
+## Weaknesses
+Definition: Weaknesses refer to intrinsic properties or vulnerabilities in embeddings, such as their inability to handle rare terms, adversarial inputs, or polysemous words. 
+These are fundamental flaws in the embedding model's representation capabilities.
+Purpose: Uncover underlying issues that may lead to failure across multiple areas or tasks.
+Examples from Document:
+Cosine similarity distribution checks detect anomalies in semantic distances.
+Adversarial example testing exposes embeddings' inability to generalize against minor variations (e.g., typos or synonyms).
+Linguistic property probing examines encoding accuracy for specific attributes (e.g., syntax, semantics).
+Emphasis: Qualitative diagnostics that focus on improving the model's robustness and adaptability.
+Key Difference
+Scope: Low performance areas are task-specific and quantitative, while weaknesses are model-intrinsic and qualitative.
+Objective: Low performance areas aim to optimize embeddings for specific tasks; weaknesses aim to improve the model’s general robustness and versatility.
+Methods: Low performance focuses on benchmarks and performance logs, whereas weaknesses explore structural and distributional properties of embeddings.
+By addressing both, a comprehensive root cause analysis ensures that textual embeddings are both task-efficient and inherently robust.
 
 
-To begin, we present a schematic diagram illustrating the potential causes of application failures across the different stages where textual embeddings play a role.
+Let's start with a schematic diagram illustrating few potential causes of textual embeddings failures, at various stages where textual embeddings are involved.
 
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
 
