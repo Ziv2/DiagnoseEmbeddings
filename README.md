@@ -36,7 +36,7 @@ Objective: Low performance areas aim to optimize embeddings for specific tasks; 
 Methods: Low performance focuses on benchmarks and performance logs, whereas weaknesses explore structural and distributional properties of embeddings.
 By addressing both, a comprehensive root cause analysis ensures that textual embeddings are both task-efficient and inherently robust.
 
-
+---
 Let's start with a schematic diagram illustrating few potential causes of textual embeddings failures, at various stages where textual embeddings are involved.
 
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
