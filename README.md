@@ -42,10 +42,10 @@ Let's start with a schematic diagram illustrating few potential causes of textua
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/diagram.svg)
 
 
-## Mapping the methods covered in this literature review.
+## Mapping the failure diagnostics methods covered in this literature review.
 ![Literature Review Overview](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/Methods_map.png)
 
-## Contents
+## Navigation panel:
 
 **1. Introduction**
 
