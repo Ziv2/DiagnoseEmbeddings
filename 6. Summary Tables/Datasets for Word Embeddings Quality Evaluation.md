@@ -10,10 +10,3 @@
 | CARD-660 Rare Words (RW) Dataset | [RW Dataset](https://paperswithcode.com/dataset/card-660) | Free for research purposes | Word2Vec, GloVe | Evaluate embedding performance on less frequent words. | Moderate | Medium - highlights model performance on low-frequency vocabulary. |
 | Google Analogy Test Set | [Google Analogy Test Set](https://code.google.com/archive/p/word2vec/) | Free for academic use | Word2Vec, GloVe | Assess syntactic and semantic analogy tasks. | Moderate | High - common benchmark for analogy tasks. |
 | MEN Dataset | [MEN Dataset](https://staff.fnwi.uva.nl/e.bruni/MEN) | Free for research purposes | Word2Vec, GloVe | Evaluate word similarity using paired comparisons with human annotations. | Easy | High - comprehensive annotations for similarity testing. |
-
-
-Here's how the table could be filled for WordNet:
-
-| Name of Dataset       | Link to the Dataset                     | License         | Relevant Models               | How to Use                        | Ease of Implementation | Importance                           |
-|------------------------|-----------------------------------------|-----------------|-------------------------------|------------------------------------|------------------------|---------------------------------------|
-| WordNet               | [WordNet](https://wordnet.princeton.edu/) | Princeton WordNet License | NLP, Computational Linguistics, Semantic Models | Download and integrate with NLP libraries like NLTK or spaCy | Easy (well-documented tools) | High for semantic understanding and NLP tasks |
