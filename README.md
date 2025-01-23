@@ -2,7 +2,7 @@
 The following review explore methods for identifying and diagnosing failures and weaknesses in the utilization of textual embeddings. 
 **The accompanying README file serves as a navigation panel to the various topics covered in this literature review.**
 
-Please note that in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models weaknesses or failures.
+Please note that in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models failures.
 Therefore, we tried to use variouse of alternative terms. 
 
 ## Low Performance Areas
