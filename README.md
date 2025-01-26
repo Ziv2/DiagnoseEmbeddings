@@ -187,4 +187,58 @@ Let's start with a schematic diagram illustrating few potential causes of textua
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Segmentation methods to Identify weaknesses in sentence embeddings](https://github.com/Ziv2/EmbeddingDiagnostics/blob/master/6.%20Summary%20Tables/Segmentation%20methods%20to%20Identify%20weaknesses%20in%20sentence%20embeddings.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+---
+
+Here's the categorization of methods based on whether they are primarily suited for identifying **low performance areas**, **weaknesses**, or both:
+
+
+| **Method**                                | **Category**       |
+|-------------------------------------------|--------------------|
+| **1. Clustering-Based Segmentation**      | BOTH               |
+| - K-Means Clustering                      | BOTH               |
+| - DBSCAN                                  | WEAKNESSES         |
+| - Hierarchical Clustering                 | BOTH               |
+| **2. Dimensionality Reduction Analysis**  | WEAKNESSES         |
+| - Principal Component Analysis (PCA)      | LOW PERFORMANCE    |
+| - t-SNE/UMAP Projections                  | WEAKNESSES         |
+| **3. Similarity and Distance Analysis**   | BOTH               |
+| - Cosine Similarity Matrix                | BOTH               |
+| - Euclidean/Manhattan Distance            | WEAKNESSES         |
+| - Triplet Loss Evaluation                 | LOW PERFORMANCE    |
+| **4. Error Distribution Analysis**        | LOW PERFORMANCE    |
+| - Confusion Matrix                        | LOW PERFORMANCE    |
+| - Residual Analysis                       | LOW PERFORMANCE    |
+| **5. Outlier Detection**                  | WEAKNESSES         |
+| - Z-Score Analysis                        | WEAKNESSES         |
+| - Mahalanobis Distance                    | WEAKNESSES         |
+| - Isolation Forest                        | WEAKNESSES         |
+| **6. Locality-Sensitive Hashing (LSH)**   | WEAKNESSES         |
+| **7. Entropy and Information-Theoretic Metrics** | BOTH         |
+| - Shannon Entropy                         | WEAKNESSES         |
+| - Mutual Information (MI)                 | LOW PERFORMANCE    |
+| **8. Loss Landscape Analysis**            | LOW PERFORMANCE    |
+| **9. Manifold Analysis**                  | WEAKNESSES         |
+| - Manifold Alignment                      | WEAKNESSES         |
+| - Curvature Metrics                       | WEAKNESSES         |
+| **10. Probing Task Metrics**              | WEAKNESSES         |
+| **11. Divergence Metrics**                | BOTH               |
+| - KL Divergence                           | BOTH               |
+| - Jensen-Shannon Divergence               | BOTH               |
+| **12. Sensitivity and Robustness Tests**  | WEAKNESSES         |
+| - Gradient Sensitivity                    | WEAKNESSES         |
+| - Perturbation Analysis                   | WEAKNESSES         |
+| **13. Feature Importance Scores**         | LOW PERFORMANCE    |
+| **14. Latent Space Topology Analysis**    | WEAKNESSES         |
+| **15. Cross-Validation Metrics**          | LOW PERFORMANCE    |
+| **16. Transfer Learning Evaluation**      | LOW PERFORMANCE    |
+| **17. Bias and Fairness Quantification**  | WEAKNESSES         |
+| - Statistical Parity Difference           | WEAKNESSES         |
+| - Equal Opportunity Difference            | WEAKNESSES         |
+| **18. Error Surface Analysis**            | WEAKNESSES         |
+
+---
+
+### **Key Notes:**
+1. **LOW PERFORMANCE**: These methods evaluate embeddings against benchmarks or task-specific metrics to find areas where performance falls short.
+2. **WEAKNESSES**: These methods focus on structural or intrinsic issues in the embeddings, such as robustness to perturbations, handling of outliers, or fairness.
+3. **BOTH**: Certain methods, such as clustering-based approaches, can reveal both localized poor performance and structural flaws, making them applicable to both categories.
