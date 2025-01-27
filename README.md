@@ -5,7 +5,7 @@ The following review explore methods for identifying and diagnosing failures and
 Please note that in the existing literature, root cause analysis (or failure analysis) is predominantly associated with production processes, with almost no mention of language models failures.
 Therefore, we tried to use variouse of alternative terms. 
 
-## Low Performance Areas
+## Low Performance Areas - Measurable downstream tasks errors
 Definition: concecuenses in which embeddings fail to meet expected performance metrics. 
 The focus is on specific measurable shortcomings in predefined benchmarks or tasks (e.g., classification, clustering coherence, analogy tests).
 
@@ -17,7 +17,7 @@ Cluster coherence scoring reveals semantic groupings that are not well-defined.
 
 <u>Emphasis:<u> Quantitative analysis and comparisons to known standards or task-specific requirements.
 
-## Weaknesses
+## Weaknesses -  Qualitative intrinsic diagnostics
 Definition: Weaknesses refer to intrinsic properties or vulnerabilities in embeddings, such as their inability to handle rare terms, adversarial inputs, or polysemous words. 
 These are fundamental flaws in the embedding model's representation capabilities.
 
